@@ -1,0 +1,28 @@
+{
+  "articles": [
+    {
+      "id": 1,
+      "title": "A Revolução das maquinas",
+      "content": "aqui tem um texto que representa um conteudo de um blog que infelizmente o desenvolvedor ficou com preguiça de ir ali do lado pegar um lorem, waliston melhore....",
+      "author": "Bot 545"
+    },
+    {
+      "id": 1,
+      "title": "A Revolução das maquinas",
+      "content": "aqui tem um testo que representa um conteudo de um blog que infelizmente o desenvolvedor ficou com preguiça de ir ali do lado pegar um lorem, waliston melhore....",
+      "author": "Bot 545"
+    },
+    {
+      "title": "O começo do fim",
+      "author": "Wal Wizard",
+      "content": "lorem inpsun dollos sacanus",
+      "id": 2
+    },
+    {
+      "title": "A mais um artigo",
+      "author": "waliston",
+      "content": "com o fim da era do caos a paz se aproxima ",
+      "id": 3
+    }
+  ]
+}
